@@ -9,5 +9,7 @@ A list of technical things that may be useful to me someday
 
 ### Fuchsia / Zicron
 [A deep dive into Fuchsia](https://www.inovex.de/de/blog/a-deep-dive-into-fuchsia/)
+
 [進入c++前的arm初始化](https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458295097&idx=1&sn=d5de6330722d8b03e1b83cf2c129e858&scene=21#wechat_redirect)
+
 [進入c++後的zicron初始化](https://www.jianshu.com/p/aa56ea4b6d42)
